@@ -15,9 +15,7 @@ const App = () => {
       <Text style={{ textAlign: "left", fontSize: 24 }}>
         Nama: Ahmad Mu'min Faisal
       </Text>
-      <Text style={{ textAlign: "left", fontSize: 24 }}>
-        NIM: 1203210101
-      </Text>
+      <Text style={{ textAlign: "left", fontSize: 24 }}>NIM: 1203210101</Text>
       <StackParamScreen />
     </View>
   );
